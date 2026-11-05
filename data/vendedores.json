@@ -1,0 +1,20 @@
+[
+  {
+    "id": "camila",
+    "nombre": "Camila V.",
+    "carrera": "Administración Hotelera y Gastronomía",
+    "descripcion": "Emprendimiento de comida casera, postres y artículos universitarios.",
+    "telefono": "51999999999",
+    "rating": 4.9,
+    "iconoPerfil": "fa-user"
+  },
+  {
+    "id": "otro",
+    "nombre": "Emprendedor universitario",
+    "carrera": "Comunidad universitaria",
+    "descripcion": "Publicaciones de demostración",
+    "telefono": "51999999999",
+    "rating": 4.8,
+    "iconoPerfil": "fa-user"
+  }
+]
